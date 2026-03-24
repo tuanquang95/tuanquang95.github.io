@@ -10,9 +10,9 @@ collection: portfolio
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Framework](https://img.shields.io/badge/Framework-YOLOv8-FF4500?style=flat-square)](https://github.com/ultralytics/ultralytics)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-tuanquang95%2Faio__pending__track5-181717?style=flat-square&logo=github)](https://github.com/tuanquang95/aio_pending_track5)
 
-> **Detecting motorcycle helmet rule violations in real-time surveillance video** — a 7-class object detection system built for the CVPR 2023 Workshop AI City Challenge.
-/Users/tuanquang95/Downloads/README (5).md/Users/tuanquang95/Downloads/README (5).md
+> **Detecting motorcycle helmet rule violations in real-time surveillance video** — a 7-class object detection system built for the CVPR 20
 ---
 
 ## 📌 Overview
