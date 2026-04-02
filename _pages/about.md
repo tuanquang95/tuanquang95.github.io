@@ -13,18 +13,11 @@ redirect_from:
 
 ## About Me
 
-I'm an AI Engineer with over 5 years of experience building production-grade, AI-driven systems across fintech, defense, and education. My work spans the full ML lifecycle — from fine-tuning large language models and designing multi-agent architectures to deploying scalable cloud-native MLOps pipelines on AWS and GCP.
-
-I've had the opportunity to work on high-impact problems at companies like LPL Financial, Galileo Financial Technologies, Ford Credit, and AeroVironment — shipping systems that reduced operational latency, automated complex workflows, and improved fraud detection and document retrieval at scale.
-
-On the research side, I've co-authored peer-reviewed work on CLIP-based multimodal video retrieval (SOICT '23) and a training-free self-ensemble framework for improving generalization in Large Vision-Language Models, published on arXiv.
+Senior AI Engineer with 7+ years in software engineering and production LLM systems, multi-agent pipelines, and cloud-native MLOps infrastructure. Architected agentic RAG platforms processing 500K+ documents that cut research time by 70%, designed inference pipelines serving 10K+ daily financial API requests at subsecond latency, and published two peer-reviewed papers in multimodal AI. Proven track record of owning system architecture end-to-end, mentoring engineering teams, and driving build-vs-buy decisions across LangGraph, LangSmith, AWS Bedrock/SageMaker, and modern orchestration tooling.
 
 My core strengths include:
-- **LLM Engineering** — fine-tuning, quantization, RAG, and agentic pipelines (LangGraph, CrewAI, LlamaIndex)
-- **MLOps** — end-to-end pipelines with SageMaker, Docker, Airflow, W&B, DVC, and Terraform
-- **Cloud Infrastructure** — AWS, GCP, and Azure with full observability stacks
-- **Software Engineering** — Python, Java, FastAPI, Spring Boot, and microservices architecture
-
-I hold a B.S. in Computer Science/Engineering from California State University, Northridge, where I graduated Cum Laude and received the Outstanding Graduating Senior Award.
-
-I'm passionate about transforming complex workflows through intelligent automation and building AI systems that are both powerful and production-ready.
+- **Core** — LangGraph, LangChain, PyTorch, AWS Bedrock/SageMaker, FAISS, Neo4j, FastAPI, Docker, Kubernetes, Terraform
+- **LLM & AI Systems** — CrewAI, AutoGen, LlamaIndex, RAG (Agentic/Corrective/Self-RAG), Prompt Engineering, Function Calling/Tool Use, Structured Output, Guardrails, LLM Evaluation, MCP Server
+- **ML & Deep Learning** — TensorFlow, JAX, Hugging Face (Transformers, PEFT, Accelerate), Scikit-learn, OpenCV, Fine-tuning (QLoRA/LoRA), Quantization (GPTQ/AWQ/GGUF), ONNX, W&B, MLflow
+- **Data & Infrastructure** — Pinecone, Chroma, Weaviate, PostgreSQL, MongoDB, DynamoDB, Kafka, PySpark, Airflow, DVC, Feast, OpenTelemetry, Grafana, Prometheus, GitHub Actions, CI/CD
+- **Languages** — Python (Proficient), Java, JavaScript/TypeScript, SQL, C++, C#Galileo Financial Technologies
