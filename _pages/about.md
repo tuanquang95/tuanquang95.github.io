@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 # Tuan Quang
-### AI Engineer | Machine Learning | AI-Driven Solutions
+### Software Engineer, Applied AI in production
 
 ## About Me
 
-Senior AI Engineer with 7+ years in software engineering and production LLM systems, multi-agent pipelines, and cloud-native MLOps infrastructure. Architected agentic RAG platforms processing 500K+ documents that cut research time by 70%, designed inference pipelines serving 10K+ daily financial API requests at subsecond latency, and published two peer-reviewed papers in multimodal AI. Proven track record of owning system architecture end-to-end, mentoring engineering teams, and driving build-vs-buy decisions across LangGraph, LangSmith, AWS Bedrock/SageMaker, and modern orchestration tooling.
+Senior AI Engineer with 7+ years building and optimizing production AI systems in financial services, including LLM inference, multi-agent workflows, vector search, guardrails, and evaluation on AWS and GCP. Proven record of cutting inference cost and latency through quantization and model optimization while leading engineers through architecture and design reviews.
 
 My core strengths include:
 - **Core** — LangGraph, LangChain, PyTorch, AWS Bedrock/SageMaker, FAISS, Neo4j, FastAPI, Docker, Kubernetes, Terraform
